@@ -6,7 +6,7 @@
     - secret
 
   roles:
-    - services
+    - portfolio
 
   environment:
     DEBUG: "{{ lookup('ansible.builtin.env', 'DEBUG') }}"
