@@ -1,6 +1,7 @@
 
 volumes:
-    portainer-data:
+    portainer_data:
+
 
 services:
 
