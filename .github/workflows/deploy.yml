@@ -16,7 +16,7 @@ on:
       TARGET_HOST:
         description: 'Target Host'
         required: true
-        default: "18.217.182.211" # Change this to your server IP or Domain
+        default: "ubuntu@ec2-18-217-182-211.us-east-2.compute.amazonaws.com" # Change this to your server IP or Domain
 
 jobs:
    ansible:
