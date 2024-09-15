@@ -58,7 +58,7 @@ services:
     restart: always
         # Added networks
     networks:
-      - traefik_networks
+      - traefik_network
     # Added labels
     labels:    
       - com.centurylinklabs.watchtower.enable=true
