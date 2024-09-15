@@ -12,7 +12,7 @@ on:
         type: string
         description: 'Email for fetching certs'
         required: true
-        default: 'mawalladaniel2018@gmail.com' # Edit here
+        default: 'mawalladaniel16@gmail.com' # Edit here
       HOME_DIR:
         type: string
         description: 'Home Directory'
